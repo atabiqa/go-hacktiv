@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var score = 10
+	var score = 0
 
 	if score > 7 {
 		switch score {
