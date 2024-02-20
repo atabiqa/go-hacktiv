@@ -13,6 +13,6 @@ outerLoop:
 			}
 			fmt.Println(j, " ")
 		}
-		fmt.Println("\n")
+		//	fmt.Println("\n")
 	}
 }
